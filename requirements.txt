@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+kucoin-python
+requests
+urllib3
